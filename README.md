@@ -1,1 +1,1 @@
-This repository contains the software development of a methodology for quantifying NOx and CO2 emissions from Sentinel-5P satellite observations of NO2.
+Данный репозиторий содержит программное обеспечение, разработанное для методологии количественной оценки выбросов NOx и CO2 в результате спутниковых наблюдений за NO2 со спутника Sentinel-5P.
